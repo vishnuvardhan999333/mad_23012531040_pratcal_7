@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_db"
+        android:title="Get From DB"
+        android:icon="@drawable/ic_storage"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_newdb"
+        android:title="Get From Network"
+        android:icon="@drawable/sync"
+        app:showAsAction="ifRoom" />
+</menu>
