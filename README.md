@@ -145,6 +145,8 @@ Add in `AndroidManifest.xml`:
 - Map Activity  
 - RecyclerView Output  
 
+<img width="1330" height="692" alt="image" src="https://github.com/user-attachments/assets/6229ba70-0743-4a1d-b3e8-fba99fbbce02" />
+
 ---
 
 ## **Conclusion**
